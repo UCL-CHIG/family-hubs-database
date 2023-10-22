@@ -1,0 +1,199 @@
+﻿location,location_code,geographic_level,time_period,population_count,number
+Camden,E09000007,localAuthority,2020,Children looked after at 31 March each year,189
+Camden,E09000007,localAuthority,2020,Children starting to be looked after each year,102
+Camden,E09000007,localAuthority,2021,Children looked after at 31 March each year,187
+Camden,E09000007,localAuthority,2021,Children starting to be looked after each year,106
+Camden,E09000007,localAuthority,2022,Children looked after at 31 March each year,191
+Camden,E09000007,localAuthority,2022,Children starting to be looked after each year,140
+City of London,E09000001,localAuthority,2020,Children looked after at 31 March each year,24
+City of London,E09000001,localAuthority,2020,Children starting to be looked after each year,25
+City of London,E09000001,localAuthority,2021,Children looked after at 31 March each year,20
+City of London,E09000001,localAuthority,2021,Children starting to be looked after each year,17
+City of London,E09000001,localAuthority,2022,Children looked after at 31 March each year,10
+City of London,E09000001,localAuthority,2022,Children starting to be looked after each year,8
+Hackney,E09000012,localAuthority,2020,Children looked after at 31 March each year,431
+Hackney,E09000012,localAuthority,2020,Children starting to be looked after each year,229
+Hackney,E09000012,localAuthority,2021,Children looked after at 31 March each year,418
+Hackney,E09000012,localAuthority,2021,Children starting to be looked after each year,189
+Hackney,E09000012,localAuthority,2022,Children looked after at 31 March each year,405
+Hackney,E09000012,localAuthority,2022,Children starting to be looked after each year,163
+Hammersmith and Fulham,E09000013,localAuthority,2020,Children looked after at 31 March each year,256
+Hammersmith and Fulham,E09000013,localAuthority,2020,Children starting to be looked after each year,151
+Hammersmith and Fulham,E09000013,localAuthority,2021,Children looked after at 31 March each year,244
+Hammersmith and Fulham,E09000013,localAuthority,2021,Children starting to be looked after each year,113
+Hammersmith and Fulham,E09000013,localAuthority,2022,Children looked after at 31 March each year,216
+Hammersmith and Fulham,E09000013,localAuthority,2022,Children starting to be looked after each year,104
+Haringey,E09000014,localAuthority,2020,Children looked after at 31 March each year,403
+Haringey,E09000014,localAuthority,2020,Children starting to be looked after each year,179
+Haringey,E09000014,localAuthority,2021,Children looked after at 31 March each year,392
+Haringey,E09000014,localAuthority,2021,Children starting to be looked after each year,143
+Haringey,E09000014,localAuthority,2022,Children looked after at 31 March each year,387
+Haringey,E09000014,localAuthority,2022,Children starting to be looked after each year,151
+Islington,E09000019,localAuthority,2020,Children looked after at 31 March each year,365
+Islington,E09000019,localAuthority,2020,Children starting to be looked after each year,186
+Islington,E09000019,localAuthority,2021,Children looked after at 31 March each year,343
+Islington,E09000019,localAuthority,2021,Children starting to be looked after each year,140
+Islington,E09000019,localAuthority,2022,Children looked after at 31 March each year,385
+Islington,E09000019,localAuthority,2022,Children starting to be looked after each year,202
+Kensington and Chelsea,E09000020,localAuthority,2020,Children looked after at 31 March each year,106
+Kensington and Chelsea,E09000020,localAuthority,2020,Children starting to be looked after each year,68
+Kensington and Chelsea,E09000020,localAuthority,2021,Children looked after at 31 March each year,106
+Kensington and Chelsea,E09000020,localAuthority,2021,Children starting to be looked after each year,73
+Kensington and Chelsea,E09000020,localAuthority,2022,Children looked after at 31 March each year,101
+Kensington and Chelsea,E09000020,localAuthority,2022,Children starting to be looked after each year,77
+Lambeth,E09000022,localAuthority,2020,Children looked after at 31 March each year,361
+Lambeth,E09000022,localAuthority,2020,Children starting to be looked after each year,167
+Lambeth,E09000022,localAuthority,2021,Children looked after at 31 March each year,375
+Lambeth,E09000022,localAuthority,2021,Children starting to be looked after each year,192
+Lambeth,E09000022,localAuthority,2022,Children looked after at 31 March each year,402
+Lambeth,E09000022,localAuthority,2022,Children starting to be looked after each year,215
+Lewisham,E09000023,localAuthority,2020,Children looked after at 31 March each year,473
+Lewisham,E09000023,localAuthority,2020,Children starting to be looked after each year,215
+Lewisham,E09000023,localAuthority,2021,Children looked after at 31 March each year,468
+Lewisham,E09000023,localAuthority,2021,Children starting to be looked after each year,167
+Lewisham,E09000023,localAuthority,2022,Children looked after at 31 March each year,465
+Lewisham,E09000023,localAuthority,2022,Children starting to be looked after each year,203
+Newham,E09000025,localAuthority,2020,Children looked after at 31 March each year,411
+Newham,E09000025,localAuthority,2020,Children starting to be looked after each year,220
+Newham,E09000025,localAuthority,2021,Children looked after at 31 March each year,382
+Newham,E09000025,localAuthority,2021,Children starting to be looked after each year,184
+Newham,E09000025,localAuthority,2022,Children looked after at 31 March each year,431
+Newham,E09000025,localAuthority,2022,Children starting to be looked after each year,236
+Southwark,E09000028,localAuthority,2020,Children looked after at 31 March each year,458
+Southwark,E09000028,localAuthority,2020,Children starting to be looked after each year,204
+Southwark,E09000028,localAuthority,2021,Children looked after at 31 March each year,449
+Southwark,E09000028,localAuthority,2021,Children starting to be looked after each year,165
+Southwark,E09000028,localAuthority,2022,Children looked after at 31 March each year,457
+Southwark,E09000028,localAuthority,2022,Children starting to be looked after each year,228
+Tower Hamlets,E09000030,localAuthority,2020,Children looked after at 31 March each year,307
+Tower Hamlets,E09000030,localAuthority,2020,Children starting to be looked after each year,146
+Tower Hamlets,E09000030,localAuthority,2021,Children looked after at 31 March each year,305
+Tower Hamlets,E09000030,localAuthority,2021,Children starting to be looked after each year,131
+Tower Hamlets,E09000030,localAuthority,2022,Children looked after at 31 March each year,332
+Tower Hamlets,E09000030,localAuthority,2022,Children starting to be looked after each year,182
+Wandsworth,E09000032,localAuthority,2020,Children looked after at 31 March each year,277
+Wandsworth,E09000032,localAuthority,2020,Children starting to be looked after each year,153
+Wandsworth,E09000032,localAuthority,2021,Children looked after at 31 March each year,253
+Wandsworth,E09000032,localAuthority,2021,Children starting to be looked after each year,114
+Wandsworth,E09000032,localAuthority,2022,Children looked after at 31 March each year,243
+Wandsworth,E09000032,localAuthority,2022,Children starting to be looked after each year,110
+Westminster,E09000033,localAuthority,2020,Children looked after at 31 March each year,220
+Westminster,E09000033,localAuthority,2020,Children starting to be looked after each year,146
+Westminster,E09000033,localAuthority,2021,Children looked after at 31 March each year,166
+Westminster,E09000033,localAuthority,2021,Children starting to be looked after each year,90
+Westminster,E09000033,localAuthority,2022,Children looked after at 31 March each year,170
+Westminster,E09000033,localAuthority,2022,Children starting to be looked after each year,123
+Barking and Dagenham,E09000002,localAuthority,2020,Children looked after at 31 March each year,402
+Barking and Dagenham,E09000002,localAuthority,2020,Children starting to be looked after each year,180
+Barking and Dagenham,E09000002,localAuthority,2021,Children looked after at 31 March each year,391
+Barking and Dagenham,E09000002,localAuthority,2021,Children starting to be looked after each year,185
+Barking and Dagenham,E09000002,localAuthority,2022,Children looked after at 31 March each year,413
+Barking and Dagenham,E09000002,localAuthority,2022,Children starting to be looked after each year,196
+Barnet,E09000003,localAuthority,2020,Children looked after at 31 March each year,327
+Barnet,E09000003,localAuthority,2020,Children starting to be looked after each year,190
+Barnet,E09000003,localAuthority,2021,Children looked after at 31 March each year,323
+Barnet,E09000003,localAuthority,2021,Children starting to be looked after each year,134
+Barnet,E09000003,localAuthority,2022,Children looked after at 31 March each year,333
+Barnet,E09000003,localAuthority,2022,Children starting to be looked after each year,196
+Bexley,E09000004,localAuthority,2020,Children looked after at 31 March each year,221
+Bexley,E09000004,localAuthority,2020,Children starting to be looked after each year,122
+Bexley,E09000004,localAuthority,2021,Children looked after at 31 March each year,234
+Bexley,E09000004,localAuthority,2021,Children starting to be looked after each year,111
+Bexley,E09000004,localAuthority,2022,Children looked after at 31 March each year,234
+Bexley,E09000004,localAuthority,2022,Children starting to be looked after each year,116
+Brent,E09000005,localAuthority,2020,Children looked after at 31 March each year,299
+Brent,E09000005,localAuthority,2020,Children starting to be looked after each year,170
+Brent,E09000005,localAuthority,2021,Children looked after at 31 March each year,289
+Brent,E09000005,localAuthority,2021,Children starting to be looked after each year,168
+Brent,E09000005,localAuthority,2022,Children looked after at 31 March each year,341
+Brent,E09000005,localAuthority,2022,Children starting to be looked after each year,218
+Bromley,E09000006,localAuthority,2020,Children looked after at 31 March each year,330
+Bromley,E09000006,localAuthority,2020,Children starting to be looked after each year,122
+Bromley,E09000006,localAuthority,2021,Children looked after at 31 March each year,341
+Bromley,E09000006,localAuthority,2021,Children starting to be looked after each year,136
+Bromley,E09000006,localAuthority,2022,Children looked after at 31 March each year,328
+Bromley,E09000006,localAuthority,2022,Children starting to be looked after each year,113
+Croydon,E09000008,localAuthority,2020,Children looked after at 31 March each year,791
+Croydon,E09000008,localAuthority,2020,Children starting to be looked after each year,362
+Croydon,E09000008,localAuthority,2021,Children looked after at 31 March each year,680
+Croydon,E09000008,localAuthority,2021,Children starting to be looked after each year,195
+Croydon,E09000008,localAuthority,2022,Children looked after at 31 March each year,550
+Croydon,E09000008,localAuthority,2022,Children starting to be looked after each year,247
+Ealing,E09000009,localAuthority,2020,Children looked after at 31 March each year,332
+Ealing,E09000009,localAuthority,2020,Children starting to be looked after each year,187
+Ealing,E09000009,localAuthority,2021,Children looked after at 31 March each year,307
+Ealing,E09000009,localAuthority,2021,Children starting to be looked after each year,144
+Ealing,E09000009,localAuthority,2022,Children looked after at 31 March each year,328
+Ealing,E09000009,localAuthority,2022,Children starting to be looked after each year,165
+Enfield,E09000010,localAuthority,2020,Children looked after at 31 March each year,372
+Enfield,E09000010,localAuthority,2020,Children starting to be looked after each year,230
+Enfield,E09000010,localAuthority,2021,Children looked after at 31 March each year,375
+Enfield,E09000010,localAuthority,2021,Children starting to be looked after each year,187
+Enfield,E09000010,localAuthority,2022,Children looked after at 31 March each year,386
+Enfield,E09000010,localAuthority,2022,Children starting to be looked after each year,211
+Greenwich,E09000011,localAuthority,2020,Children looked after at 31 March each year,461
+Greenwich,E09000011,localAuthority,2020,Children starting to be looked after each year,169
+Greenwich,E09000011,localAuthority,2021,Children looked after at 31 March each year,417
+Greenwich,E09000011,localAuthority,2021,Children starting to be looked after each year,121
+Greenwich,E09000011,localAuthority,2022,Children looked after at 31 March each year,459
+Greenwich,E09000011,localAuthority,2022,Children starting to be looked after each year,166
+Harrow,E09000015,localAuthority,2020,Children looked after at 31 March each year,186
+Harrow,E09000015,localAuthority,2020,Children starting to be looked after each year,139
+Harrow,E09000015,localAuthority,2021,Children looked after at 31 March each year,182
+Harrow,E09000015,localAuthority,2021,Children starting to be looked after each year,113
+Harrow,E09000015,localAuthority,2022,Children looked after at 31 March each year,188
+Harrow,E09000015,localAuthority,2022,Children starting to be looked after each year,113
+Havering,E09000016,localAuthority,2020,Children looked after at 31 March each year,232
+Havering,E09000016,localAuthority,2020,Children starting to be looked after each year,123
+Havering,E09000016,localAuthority,2021,Children looked after at 31 March each year,206
+Havering,E09000016,localAuthority,2021,Children starting to be looked after each year,79
+Havering,E09000016,localAuthority,2022,Children looked after at 31 March each year,264
+Havering,E09000016,localAuthority,2022,Children starting to be looked after each year,146
+Hillingdon,E09000017,localAuthority,2020,Children looked after at 31 March each year,338
+Hillingdon,E09000017,localAuthority,2020,Children starting to be looked after each year,209
+Hillingdon,E09000017,localAuthority,2021,Children looked after at 31 March each year,338
+Hillingdon,E09000017,localAuthority,2021,Children starting to be looked after each year,181
+Hillingdon,E09000017,localAuthority,2022,Children looked after at 31 March each year,408
+Hillingdon,E09000017,localAuthority,2022,Children starting to be looked after each year,346
+Hounslow,E09000018,localAuthority,2020,Children looked after at 31 March each year,269
+Hounslow,E09000018,localAuthority,2020,Children starting to be looked after each year,143
+Hounslow,E09000018,localAuthority,2021,Children looked after at 31 March each year,254
+Hounslow,E09000018,localAuthority,2021,Children starting to be looked after each year,128
+Hounslow,E09000018,localAuthority,2022,Children looked after at 31 March each year,296
+Hounslow,E09000018,localAuthority,2022,Children starting to be looked after each year,180
+Kingston upon Thames,E09000021,localAuthority,2020,Children looked after at 31 March each year,125
+Kingston upon Thames,E09000021,localAuthority,2020,Children starting to be looked after each year,67
+Kingston upon Thames,E09000021,localAuthority,2021,Children looked after at 31 March each year,132
+Kingston upon Thames,E09000021,localAuthority,2021,Children starting to be looked after each year,69
+Kingston upon Thames,E09000021,localAuthority,2022,Children looked after at 31 March each year,133
+Kingston upon Thames,E09000021,localAuthority,2022,Children starting to be looked after each year,71
+Merton,E09000024,localAuthority,2020,Children looked after at 31 March each year,154
+Merton,E09000024,localAuthority,2020,Children starting to be looked after each year,82
+Merton,E09000024,localAuthority,2021,Children looked after at 31 March each year,142
+Merton,E09000024,localAuthority,2021,Children starting to be looked after each year,53
+Merton,E09000024,localAuthority,2022,Children looked after at 31 March each year,122
+Merton,E09000024,localAuthority,2022,Children starting to be looked after each year,54
+Redbridge,E09000026,localAuthority,2020,Children looked after at 31 March each year,237
+Redbridge,E09000026,localAuthority,2020,Children starting to be looked after each year,132
+Redbridge,E09000026,localAuthority,2021,Children looked after at 31 March each year,238
+Redbridge,E09000026,localAuthority,2021,Children starting to be looked after each year,122
+Redbridge,E09000026,localAuthority,2022,Children looked after at 31 March each year,287
+Redbridge,E09000026,localAuthority,2022,Children starting to be looked after each year,154
+Richmond upon Thames,E09000027,localAuthority,2020,Children looked after at 31 March each year,122
+Richmond upon Thames,E09000027,localAuthority,2020,Children starting to be looked after each year,72
+Richmond upon Thames,E09000027,localAuthority,2021,Children looked after at 31 March each year,129
+Richmond upon Thames,E09000027,localAuthority,2021,Children starting to be looked after each year,61
+Richmond upon Thames,E09000027,localAuthority,2022,Children looked after at 31 March each year,129
+Richmond upon Thames,E09000027,localAuthority,2022,Children starting to be looked after each year,64
+Sutton,E09000029,localAuthority,2020,Children looked after at 31 March each year,234
+Sutton,E09000029,localAuthority,2020,Children starting to be looked after each year,120
+Sutton,E09000029,localAuthority,2021,Children looked after at 31 March each year,239
+Sutton,E09000029,localAuthority,2021,Children starting to be looked after each year,104
+Sutton,E09000029,localAuthority,2022,Children looked after at 31 March each year,236
+Sutton,E09000029,localAuthority,2022,Children starting to be looked after each year,106
+Waltham Forest,E09000031,localAuthority,2020,Children looked after at 31 March each year,304
+Waltham Forest,E09000031,localAuthority,2020,Children starting to be looked after each year,168
+Waltham Forest,E09000031,localAuthority,2021,Children looked after at 31 March each year,318
+Waltham Forest,E09000031,localAuthority,2021,Children starting to be looked after each year,139
+Waltham Forest,E09000031,localAuthority,2022,Children looked after at 31 March each year,329
+Waltham Forest,E09000031,localAuthority,2022,Children starting to be looked after each year,149

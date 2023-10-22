@@ -1,0 +1,100 @@
+﻿location,location_code,geographic_level,time_period,Referrals
+Camden,E09000007,localAuthority,2020,1499
+Camden,E09000007,localAuthority,2021,1514
+Camden,E09000007,localAuthority,2022,1844
+City of London,E09000001,localAuthority,2020,100
+City of London,E09000001,localAuthority,2021,62
+City of London,E09000001,localAuthority,2022,60
+Hackney,E09000012,localAuthority,2020,5031
+Hackney,E09000012,localAuthority,2021,x
+Hackney,E09000012,localAuthority,2022,x
+Hammersmith and Fulham,E09000013,localAuthority,2020,1670
+Hammersmith and Fulham,E09000013,localAuthority,2021,1593
+Hammersmith and Fulham,E09000013,localAuthority,2022,1885
+Haringey,E09000014,localAuthority,2020,3376
+Haringey,E09000014,localAuthority,2021,2851
+Haringey,E09000014,localAuthority,2022,3379
+Islington,E09000019,localAuthority,2020,2250
+Islington,E09000019,localAuthority,2021,2033
+Islington,E09000019,localAuthority,2022,2370
+Kensington and Chelsea,E09000020,localAuthority,2020,2427
+Kensington and Chelsea,E09000020,localAuthority,2021,2592
+Kensington and Chelsea,E09000020,localAuthority,2022,2257
+Lambeth,E09000022,localAuthority,2020,3464
+Lambeth,E09000022,localAuthority,2021,3257
+Lambeth,E09000022,localAuthority,2022,3164
+Lewisham,E09000023,localAuthority,2020,4036
+Lewisham,E09000023,localAuthority,2021,3371
+Lewisham,E09000023,localAuthority,2022,4365
+Newham,E09000025,localAuthority,2020,4844
+Newham,E09000025,localAuthority,2021,4513
+Newham,E09000025,localAuthority,2022,4878
+Southwark,E09000028,localAuthority,2020,3579
+Southwark,E09000028,localAuthority,2021,3510
+Southwark,E09000028,localAuthority,2022,3879
+Tower Hamlets,E09000030,localAuthority,2020,5152
+Tower Hamlets,E09000030,localAuthority,2021,5208
+Tower Hamlets,E09000030,localAuthority,2022,5919
+Wandsworth,E09000032,localAuthority,2020,3771
+Wandsworth,E09000032,localAuthority,2021,3010
+Wandsworth,E09000032,localAuthority,2022,2113
+Westminster,E09000033,localAuthority,2020,2012
+Westminster,E09000033,localAuthority,2021,2096
+Westminster,E09000033,localAuthority,2022,1925
+Barking and Dagenham,E09000002,localAuthority,2020,3571
+Barking and Dagenham,E09000002,localAuthority,2021,3938
+Barking and Dagenham,E09000002,localAuthority,2022,6148
+Barnet,E09000003,localAuthority,2020,2814
+Barnet,E09000003,localAuthority,2021,2511
+Barnet,E09000003,localAuthority,2022,2885
+Bexley,E09000004,localAuthority,2020,2795
+Bexley,E09000004,localAuthority,2021,3209
+Bexley,E09000004,localAuthority,2022,3620
+Brent,E09000005,localAuthority,2020,3993
+Brent,E09000005,localAuthority,2021,3861
+Brent,E09000005,localAuthority,2022,4669
+Bromley,E09000006,localAuthority,2020,3829
+Bromley,E09000006,localAuthority,2021,3827
+Bromley,E09000006,localAuthority,2022,4032
+Croydon,E09000008,localAuthority,2020,5345
+Croydon,E09000008,localAuthority,2021,4405
+Croydon,E09000008,localAuthority,2022,4762
+Ealing,E09000009,localAuthority,2020,5331
+Ealing,E09000009,localAuthority,2021,4065
+Ealing,E09000009,localAuthority,2022,4383
+Enfield,E09000010,localAuthority,2020,7471
+Enfield,E09000010,localAuthority,2021,4173
+Enfield,E09000010,localAuthority,2022,5159
+Greenwich,E09000011,localAuthority,2020,3451
+Greenwich,E09000011,localAuthority,2021,3024
+Greenwich,E09000011,localAuthority,2022,3601
+Harrow,E09000015,localAuthority,2020,2508
+Harrow,E09000015,localAuthority,2021,2605
+Harrow,E09000015,localAuthority,2022,3028
+Havering,E09000016,localAuthority,2020,2843
+Havering,E09000016,localAuthority,2021,3232
+Havering,E09000016,localAuthority,2022,3267
+Hillingdon,E09000017,localAuthority,2020,4000
+Hillingdon,E09000017,localAuthority,2021,3681
+Hillingdon,E09000017,localAuthority,2022,3709
+Hounslow,E09000018,localAuthority,2020,2891
+Hounslow,E09000018,localAuthority,2021,2615
+Hounslow,E09000018,localAuthority,2022,3241
+Kingston upon Thames,E09000021,localAuthority,2020,1411
+Kingston upon Thames,E09000021,localAuthority,2021,1487
+Kingston upon Thames,E09000021,localAuthority,2022,1391
+Merton,E09000024,localAuthority,2020,1814
+Merton,E09000024,localAuthority,2021,2035
+Merton,E09000024,localAuthority,2022,2356
+Redbridge,E09000026,localAuthority,2020,5212
+Redbridge,E09000026,localAuthority,2021,3988
+Redbridge,E09000026,localAuthority,2022,4874
+Richmond upon Thames,E09000027,localAuthority,2020,1274
+Richmond upon Thames,E09000027,localAuthority,2021,1202
+Richmond upon Thames,E09000027,localAuthority,2022,1467
+Sutton,E09000029,localAuthority,2020,2898
+Sutton,E09000029,localAuthority,2021,2841
+Sutton,E09000029,localAuthority,2022,2329
+Waltham Forest,E09000031,localAuthority,2020,4165
+Waltham Forest,E09000031,localAuthority,2021,4356
+Waltham Forest,E09000031,localAuthority,2022,5328
