@@ -1,13 +1,11 @@
 # family-hubs-database
 Database of London local authority characteristics and outcomes
 
-Written by Matthew Jay
-matthew.jay@ucl.ac.uk
+Matthew Jay & Claire Powell
+matthew.jay@ucl.ac.uk & c.powell@ucl.ac.uk
 
 Research Fellow
-University College London Great Ormond Street Institute of Child Health
-
-on secondment to the Office for Health Improvement and Disparities (OHID)
+University College London Great Ormond Street Institute of Child Health on secondment to the Office for Health Improvement and Disparities (OHID)
 
 22 October 2023
 
